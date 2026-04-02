@@ -1,10 +1,10 @@
-# 🎬 Movie Recommendation System
+#  Movie Recommendation System
 
 A content-based movie recommendation system built using Python and machine learning techniques. This project suggests movies based on user preferences by analyzing similarities between movie data.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Recommend movies based on user input
 * Uses content-based filtering
@@ -13,7 +13,7 @@ A content-based movie recommendation system built using Python and machine learn
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
@@ -23,7 +23,7 @@ A content-based movie recommendation system built using Python and machine learn
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 movie-recommender/
@@ -37,7 +37,7 @@ movie-recommender/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -69,25 +69,25 @@ streamlit run movie_recommender_app.py
 
 ---
 
-## 📸 Demo
+##  Demo
 
 *Add screenshots of your app here*
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Ashutosh Gupta
 (Data Science Enthusiast 🚀)
